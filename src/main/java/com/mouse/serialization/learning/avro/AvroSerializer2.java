@@ -17,6 +17,8 @@ import java.io.IOException;
  * @author mouse
  * @date 2020/8/10 13:11
  * @description 不生成代码的方式
+ * org.apache.avro.Schema
+ * org.apache.avro.generic.GenericRecord
  */
 public class AvroSerializer2 {
 
